@@ -12,18 +12,19 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/120
 <br/>
 Package.json do Expo
 <br/>
-{
-  "dependencies": {
-    "yup": "0.29.3",
-    "formik": "2.1.5",
-    "expo-font": "~10.2.0",
-    "expo-asset": "~8.6.3",
-    "expo-constants": "~13.2.4",
-    "expo-keep-awake": "~10.2.0",
-    "expo-status-bar": "~1.4.0",
-    "expo-file-system": "~14.1.0",
-    "@expo/vector-icons": "^13.0.0",
-    "react-native-paper": "3.6.0",
-    "react-native-keyboard-aware-scroll-view": "^0.9.2"
-  }
-}
+{ <br/>
+  "dependencies": { <br/>
+    "yup": "0.29.3", <br/>
+    "formik": "2.1.5", <br/>
+    "expo-font": "~10.2.0", <br/>
+    "expo-asset": "~8.6.3", <br/>
+    "expo-constants": "~13.2.4", <br/>
+    "expo-keep-awake": "~10.2.0", <br/>
+    "expo-status-bar": "~1.4.0", <br/>
+    "expo-file-system": "~14.1.0", <br/>
+    "@expo/vector-icons": "^13.0.0", <br/>
+    "react-native-paper": "3.6.0", <br/>
+    "react-native-keyboard-aware-scroll-view": "^0.9.2" <br/>
+  } <br/>
+} <br/>
+ 
