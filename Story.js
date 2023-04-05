@@ -26,7 +26,7 @@ export default function Story({avatar, name, isCreateStory = false, isSeen}){
 }
 const styles = StyleSheet.create({
     user: {
-        width: 50,
+        width: 80,
         paddingHorizontal: 4,
     },
     avatarBorder: {

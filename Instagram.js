@@ -2,20 +2,21 @@ import {SafeAreaView, View, TouchableOpacity, StatusBar, StyleSheet, Image, Flat
 import {Feather} from '@expo/vector-icons'
 import Constants from 'expo-constants'
 import Article from './Article'
-import Stories from './Story'
+import Stories from './Stories'
 
 import data from './data.js'
 
 export default function Instagram() {
     function renderItem({item, index}){
-        if (index == 0){ // stories
-            return 
-            <>
-                <View style={styles.stories}> 
-                    <Stories stories={data.stories} profile={data.profile}/>
-                </View>
-                <Article item={item}/>
-            </>
+        if (index === 0){ // stories
+            return (
+              <>
+                  <View style={styles.stories}> 
+                      <Stories stories={data.stories} profile={data.profile}/>
+                  </View>
+                  <Article item={item}/>
+              </>
+            )
         }
         else {
             return  <Article item={item}/>

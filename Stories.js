@@ -12,7 +12,9 @@ export default function Stories ({stories, profile}) {
             )
         }
         else {
+          return (
             <Story name={item.name} avatar={item.avatar} isSeen={item.isSeen}/>
+          )
         }
     }
     return (
