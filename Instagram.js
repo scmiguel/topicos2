@@ -2,7 +2,7 @@ import {SafeAreaView, View, TouchableOpacity, StatusBar, StyleSheet, Image, Flat
 import {Feather} from '@expo/vector-icons'
 import Constants from 'expo-constants'
 import Article from './Article'
-import Stories from './Stories'
+import Stories from './Story'
 
 import data from './data.js'
 
