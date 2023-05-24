@@ -30,7 +30,7 @@ Package.json do Expo
  
 CodeShare: https://codeshare.io/N3Ag0o
 <br/>
-Dia 07/06
-Flutter (Gabriel e Leticia)
-Ionic ou NativeScript (Ana e Fernando)
-Kotlin - Android (Rafa e Miguel)
+Dia 07/06 <br/>
+Flutter (Gabriel e Leticia) <br/>
+Ionic ou NativeScript (Ana e Fernando) <br/>
+Kotlin - Android (Rafa e Miguel) <br/>
