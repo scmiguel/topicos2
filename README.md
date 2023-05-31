@@ -1,36 +1,11 @@
-Aula 1 - Iniciando o projeto
-https://youtu.be/nVPVFLAT15Io
-<br/>
-Aula 2 - Avançando o backend e frontend
-https://youtu.be/OkuD_tbc3FY
-<br/>
-Aula 3 - Finalizando layout web
-https://youtu.be/TjIfkw8o9ug
-<br/>
-UTL do Logo do Instagram
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png
-<br/>
-Package.json do Expo
-<br/>
-{ <br/>
-  "dependencies": { <br/>
-    "yup": "0.29.3", <br/>
-    "formik": "2.1.5", <br/>
-    "expo-font": "~10.2.0", <br/>
-    "expo-asset": "~8.6.3", <br/>
-    "expo-constants": "~13.2.4", <br/>
-    "expo-keep-awake": "~10.2.0", <br/>
-    "expo-status-bar": "~1.4.0", <br/>
-    "expo-file-system": "~14.1.0", <br/>
-    "@expo/vector-icons": "^13.0.0", <br/>
-    "react-native-paper": "3.6.0", <br/>
-    "react-native-keyboard-aware-scroll-view": "^0.9.2" <br/>
-  } <br/>
-} <br/>
- 
-CodeShare: https://codeshare.io/N3Ag0o
-<br/>
-Dia 07/06 <br/>
-Flutter (Gabriel e Leticia) <br/>
-Ionic ou NativeScript (Ana e Fernando) <br/>
-Kotlin - Android (Rafa e Miguel) <br/>
+# Sample Snack app
+
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
