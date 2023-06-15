@@ -33,7 +33,7 @@ export async function notificationRoutes(app: FastifyInstance) {
 		})
 
 		const { subscription } = sendPushBody.parse(request.body)
-		//FIXME: Essa string deve ser inserido no método abaixo como 2° parametro.
+
 		const payload = 'Notificação Teste'
 
 		try {
